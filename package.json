@@ -1,6 +1,6 @@
 {
   "name": "yami-sso-client",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "单点登录客户端中间件，支持koa2和express",
   "main": "index.js",
   "directories": {
