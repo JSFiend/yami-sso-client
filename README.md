@@ -8,10 +8,10 @@
 要求nodejs 7.6版本以上，需支持async/await
 
 ## 安装
-`npm install @tencent/yami-sso-client`
+`npm install yami-sso-client`
 
 ## 调用方法
-var loginMiddware = requrire('@tencent/yami-sso-client').koa
+var loginMiddware = requrire('yami-sso-client').koa
 
 var loginConf = {
 			//配置参考“配置参数”
